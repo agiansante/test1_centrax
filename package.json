@@ -1,0 +1,14 @@
+{
+  "name": "llm-chat-test",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Prima applicazione di test con interfaccia chat e backend LLM.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
